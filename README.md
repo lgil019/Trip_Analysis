@@ -1,2 +1,2 @@
 # Trip_Analysis
-Data analysis on csv files revolving around different types of trips, using tableau prep builder and tableau. 
+Conducting data analysis on CSV files related to various types of trips using Tableau Prep Builder and Tableau.
